@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
  
 body{
-    background-image: url(photos\bg.jpg);
+    background-image: url(photos\bg.png);
 }
 .container{
     display: grid;
